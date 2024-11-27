@@ -14,6 +14,7 @@ The primary goal of the system is to streamline the data analysis process for me
 5.	As a Medical user, I want a visually appealing & easily accessed system, easily used by non technical users. 
 6.	As a Medical user, I want to be able to minimise & maximise the displayed app screen as I can, ensuring a flexible view & smart layout. 
 
+---------------------------------------------------------------------------------------------------------
 
 **Performance**
 
@@ -42,6 +43,7 @@ As a Medical user, I want to have a tooltip for every available plot, ensuring w
 1.	Each plot should have a tooltip including name, description, best use.
 2.	Tooltips should appear when moving around the plot logo. 
 
+---------------------------------------------------------------------------------------------------------
 
 **Visualisation** 
 
@@ -72,6 +74,7 @@ As a Medical user, I want a visually appealing button for plotting, ensuring it 
 1.	The plot button should be prominently placed on the interface.
 2.	The button should change colour when hovered over or clicked.
 
+---------------------------------------------------------------------------------------------------------
 
 **Accessibility for plots display & use**
 
